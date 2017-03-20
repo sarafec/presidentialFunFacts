@@ -1,0 +1,389 @@
+[
+{
+	"name": "George Washington",
+	"title": "First President of the United States of America",
+	"image": "/assets/george-washington.jpg",
+	"fact": "Washington died in an attempt to cure his sore throat, by draining half of his total blood content over the span of a few hours.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/George_Washington",
+	"yearsServed": "1789-1797"
+},
+{
+	"name": "John Adams",
+	"title": "Second President of the United States of America",
+	"image": "/assets/john-adams.jpg",
+	"fact": "Adams owned a dog named Satan.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_pets",
+	"yearsServed": "1797-1801"
+},
+{
+	"name": "Thomas Jefferson",
+	"title": "Third President of the United States of America",
+	"image": "/assets/thomas-jefferson.jpg",
+	"fact": "Jefferson studied Italian, Arabic, Irish, and Dutch.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/List_of_multilingual_presidents_of_the_United_States",
+	"yearsServed": "1801-1809"
+},
+{
+	"name": "James Madison",
+	"title": "Fourth President of the United States of America",
+	"image": "/assets/james-madison.jpg",
+	"fact": "Madison was 5'4\" and never weighed more than 100 lbs.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/James_Madison",
+	"yearsServed": "1809-1817"
+},
+{
+	"name": "James Monroe",
+	"title": "Fifth President of the United States of America",
+	"image": "/assets/james-monroe.gif",
+	"fact": "The capital of Liberia, Monrovia, is named after Monroe.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/James_Monroe",
+	"yearsServed": "1817-1825"
+},
+{
+	"name": "John Quincy Adams",
+	"title": "Sixth President of the United States of America",
+	"image": "/assets/john-quincy-adams.jpg",
+	"fact": "Adams was given an alligator as a gift. He kept it in the East Room of the White House.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+	"yearsServed": "1825-1829"
+},
+{
+	"name": "Andrew Jackson",
+	"title": "Seventh President of the United States of America",
+	"image": "/assets/andrew-jackson.jpg",
+	"fact": "The Democratic Party symbol originated during the 1828 presidential election, when Jackson's opposition called him a Jackass.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+	"yearsServed": "1829-1837"
+},
+{
+	"name": "Martin Van Buren",
+	"title": "Eighth President of the United States of America",
+	"image": "/assets/martin-van-buren.jpg",
+	"fact": "Van Buren was the first president born in the United States. He was also the first president to speak English as a second langauge.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
+	"yearsServed": "1837-1841"
+},
+{
+	"name": "William Henry Harrison",
+	"title": "Ninth President of the United States of America",
+	"image": "/assets/william-henry-harrison.jpg",
+	"fact": "Harrison gave the longest inaugural address in American history. It was 8,455 words.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+	"yearsServed": "1841"
+},
+{
+	"name": "John Tyler",
+	"title": "Tenth President of the United States of America",
+	"image": "/assets/john-tyler.jpg",
+	"fact": "As of 2013, Tyler has two living grandsons.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/John_Tyler",
+	"yearsServed": "1841-1845"
+},
+{
+	"name": "James K. Polk",
+	"title": "Eleventh President of the United States of America",
+	"image": "/assets/james-k-polk.jpg",
+	"fact": "Polk had an operation to remove kidney stones with no anesthetic, but brandy.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/James_K._Polk",
+	"yearsServed": "1845-1849"
+},
+{
+	"name": "Zachary Taylor",
+	"title": "Twelfth President of the United States of America",
+	"image": "/assets/zachary-taylor.png",
+	"fact": "Taylor died from eating raw fruit and iced milk.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Zachary_Taylor#Death",
+	"yearsServed": "1849-1850"
+},
+{
+	"name": "Millard Fillmore",
+	"title": "Thirteenth President of the United States of America",
+	"image": "/assets/millard-fillmore.jpg",
+	"fact": "Fillmore was the last president not affiliated with the Democratic or Republican party.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Millard_Fillmore",
+	"yearsServed": "1850-1853"
+},
+{
+	"name": "Franklin Pierce",
+	"title": "Fourteenth President of the United States of America",
+	"image": "/assets/franklin-pierce.jpg",
+	"fact": "Pierce's 1852 presidential campaign slogan was,\"[The Democrats] will pierce their enemies in 1852 as they poked them in 1844\".",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Franklin_Pierce",
+	"yearsServed": "1853-1857"
+},
+{
+	"name": "James Buchanan",
+	"title": "Fifteenth President of the United States of America",
+	"image": "/assets/james-buchanan.jpg",
+	"fact": "Buchanan's niece, Harriet Lane, served as his First Lady.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Harriet_Lane",
+	"yearsServed": "1857-1861"
+},
+{
+	"name": "Abraham Lincoln",
+	"title": "Sixteenth President of the United States of America",
+	"image": "/assets/abraham-lincoln.png",
+	"fact": "Lincoln gained a reputation for being tough when he beat the leader of a group called the Clary's Grove Boys in a wrestling match.",
+	"factSourceName": "",
+	"factSourceURL": "",
+	"yearsServed": "1861-1865"
+},
+{
+	"name": "Andrew Johnson",
+	"title": "Seventeenth President of the United States of America",
+	"image": "/assets/andrew-johnson.jpg",
+	"fact": "Johnson showed up to his inaguration drunk, with puffy eyes, and hair caked with mud.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Inauguration_of_Andrew_Johnson",
+	"yearsServed": "1865-1869"
+},
+{
+	"name": "Ulysses S. Grant",
+	"title": "Eighteenth President of the United States of America",
+	"image": "/assets/ulysses-s-grant.jpg",
+	"fact": "Grant's father refused to come to his wedding because his fiancée's family owned slaves.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Julia_Grant",
+	"yearsServed": "1869-1877"
+},
+{
+	"name": "Rutherford B. Hayes",
+	"title": "Nineteenth President of the United States of America",
+	"image": "/assets/rutherford-b-hayes.jpg",
+	"fact": "Hayes owned the first Siamese cat in America.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_pets",
+	"yearsServed": "1877-1881"
+},
+{
+	"name": "James A. Garfield",
+	"title": "Twentieth President of the United States of America",
+	"image": "/assets/james-a-garfield.jpg",
+	"fact": "Garfield was ambidextrous and could write in Ancient Greek and Latin at the same time.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/List_of_multilingual_presidents_of_the_United_States",
+	"yearsServed": "1881"
+},
+{
+	"name": "Chester A. Arthur",
+	"title": "Twenty-first President of the United States of America",
+	"image": "/assets/chester-a-arthur.jpg",
+	"fact": "Rumors were spread about Arthur that he was born in Canada.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+	"yearsServed": "1881-1885"
+},
+{
+	"name": "Grover Cleveland",
+	"title": "Twenty-second & Twenty-fourth President of the United States of America",
+	"image": "/assets/grover-cleveland.jpg",
+	"fact": "During his second presidency, Cleveland had tumor removal surgery on a friend's yacht to avoid the stigma of cancer.",
+	"factSourceName": "NPR",
+	"factSourceURL": "http://www.npr.org/2011/07/06/137621988/a-yacht-a-mustache-how-a-president-hid-his-tumor",
+	"yearsServed": "1885-1889 & 1893-1897"
+},
+{
+	"name": "Benjamin Harrison",
+	"title": "Twenty-third President of the United States of America",
+	"image": "/assets/benjamin-harrison.jpg",
+	"fact": "Harrison was the first president to have electricity, but he and his wife would not touch the light switches for fear of being electricuted.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Benjamin_Harrison#Technology_and_naval_modernization",
+	"yearsServed": "1889-1893"
+},
+{
+	"name": "William McKinley",
+	"title": "Twenty-fifth President of the United States of America",
+	"image": "/assets/william-mckinley.jpg",
+	"fact": "McKinley ran his presidential campaign from his front porch in Canton, Ohio. He made himself available to the public six days a week.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/William_McKinley#General_election_campaign",
+	"yearsServed": "1897-1901"
+},
+{
+	"name": "Theodore Roosevelt",
+	"title": "Twenty-sixth President of the United States of America",
+	"image": "/assets/theodore-roosevelt.jpg",
+	"fact": "While campaigning in 1912, Roosevelt gave a 90 minute speech after being shot in the chest.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Theodore_Roosevelt#Assassination_attempt",
+	"yearsServed": "1901-1909"
+},
+{
+	"name": "William Howard Taft",
+	"title": "Twenty-seventh President of the United States of America",
+	"image": "/assets/william-howard-taft.jpg",
+	"fact": "Taft's pet cow lived and grazed on the White House lawn. The cow provided millk for the first family.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Holstein_Friesian_cattle#Presidential_cow",
+	"yearsServed": "1909-1913"
+},
+{
+	"name": "Woodrow Wilson",
+	"title": "Twenty-eighth President of the United States of America",
+	"image": "/assets/woodrow-wilson.png",
+	"fact": "After Wilson suffered a stroke during his second term, his wife Edith Wilson began screening all presidential matters and deciding which were important enough to bring to him.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Edith_Wilson",
+	"yearsServed": "1913-1921"
+},
+{
+	"name": "Warren G. Harding",
+	"title": "Twenty-ninth President of the United States of America",
+	"image": "/assets/warren-g-harding.jpg",
+	"fact": "Harding won the 1920 presidential election by a 26.2% margin. It remains the larget popular-vote percentage win in American history.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_election,_1920",
+	"yearsServed": "1921-1923"
+},
+{
+	"name": "Calvin Coolidge",
+	"title": "Thirtieth President of the United States of America",
+	"image": "/assets/calvin-coolidge.jpg",
+	"fact": "Coolidge and his wife kept a raccoon as a pet while in the White House.",
+	"factSourceName": "",
+	"factSourceURL": "",
+	"yearsServed": "1923-1929"
+},
+{
+	"name": "Herbert Hoover",
+	"title": "Thirty-first President of the United States of America",
+	"image": "/assets/herbert-hoover.jpg",
+	"fact": "Hoover and his wife, Lou Hoover, were fluent in Mandarin Chinese. They spoke in Mandarin whenever they wanted to keep their conversations private.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/List_of_multilingual_presidents_of_the_United_States#Herbert_Hoover",
+	"yearsServed": "1929-1933"
+},
+{
+	"name": "Franklin D. Roosevelt",
+	"title": "Thirty-second President of the United States of America",
+	"image": "/assets/franklin-d-roosevelt.jpg",
+	"fact": "Roosevelt won 523 electoral votes during the presidential election of 1936. His opponent, Alf Landon, won only 8 electoral votes.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_election,_1936",
+	"yearsServed": "1933-1945"
+},
+{
+	"name": "Harry S. Truman",
+	"title": "Thirty-third President of the United States of America",
+	"image": "/assets/harry-s-truman.jpg",
+	"fact": "After his presidency, Truman began working within the Truman Presidential Library and Museum. He often answered the phones there, telling callers they were speaking to \"the man himself\".",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Harry_S._Truman_Presidential_Library_and_Museum#Truman.27s_activities_on_the_premises",
+	"yearsServed": "1945-1953"
+},
+{
+	"name": "Dwight D. Eisenhower",
+	"title": "Thirty-fourth President of the United States of America",
+	"image": "/assets/dwight-d-eisenhower.jpg",
+	"fact": "In his teenage years, Eisenhower was a cheerleader.",
+	"factSourceName": "The Guardian",
+	"factSourceURL": "https://www.theguardian.com/sport/2006/mar/15/ussport.stevenwells",
+	"yearsServed": "1953-1961"
+},
+{
+	"name": "John F. Kennedy",
+	"title": "Thirty-fifth President of the United States of America",
+	"image": "/assets/john-f-kennedy.jpg",
+	"fact": "Kennedy was routinely given shots of amphetamines to combat his severe back pain. The regimen was stopped by White House physicians who found the treatments innappropriate.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Max_Jacobson",
+	"yearsServed": "1961-1963"
+},
+{
+	"name": "Lyndon B. Johnson",
+	"title": "Thirty-sixth President of the United States of America",
+	"image": "/assets/lyndon-b-johnson.png",
+	"fact": "Johnson owned an amphibious car. He enjoyed frightening his guests by driving them into a nearby lake, yelling that his brakes weren't working.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Amphicar#Amphicar_adventures",
+	"yearsServed": "1963-1969"
+},
+{
+	"name": "Richard Nixon",
+	"title": "Thirty-seventh President of the United States of America",
+	"image": "/assets/richard-nixon.jpg",
+	"fact": "Nixon gave Elvis Presley a badge from the Federal Bureau of Narcotics and Dangerous Drugs that allowed him to enter the country with guns and drugs. Elvis later died of a drug overdose.",
+	"factSourceName": "Smithsonian Magazine",
+	"factSourceURL": "http://www.smithsonianmag.com/history/when-elvis-met-nixon-69892425/",
+	"yearsServed": "1969-1974"
+},
+{
+	"name": "Gerald Ford",
+	"title": "Thirty-eighth President of the United States of America",
+	"image": "/assets/gerald-ford.jpg",
+	"fact": "Ford turned down offers to play football for the Detroit Lions and the Green Bay Packers. Instead, he took an assistant coach position at Yale while he applied to their law school.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Gerald_Ford#Education",
+	"yearsServed": "1974-1977"
+},
+{
+	"name": "Jimmy Carter",
+	"title": "Thirty-ninth President of the United States of America",
+	"image": "/assets/jimmy-carter.jpg",
+	"fact": "Carter was the first president to be born in a hospital.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+	"yearsServed": "1977-1981"
+},
+{
+	"name": "Ronald Reagan",
+	"title": "Fortieth President of the United States of America",
+	"image": "/assets/ronald-reagan.jpg",
+	"fact": "Until 1962, Reagan was a lifelong Deomocrat.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/Ronald_Reagan#Early_political_career_1948-1967",
+	"yearsServed": "1981-1989"
+},
+{
+	"name": "George H. W. Bush",
+	"title": "Forty-first President of the United States of America",
+	"image": "/assets/george-h-w-bush.jpg",
+	"fact": "Bush vomited on the Prime Minister of Japan during a state dinner.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/George_H._W._Bush_vomiting_incident",
+	"yearsServed": "1989-1993"
+},
+{
+	"name": "Bill Clinton",
+	"title": "Forty-second President of the United States of America",
+	"image": "/assets/bill-clinton.jpg",
+	"fact": "Clinton only sent two emails during his presidency.",
+	"factSourceName": "BBC",
+	"factSourceURL": "http://news.bbc.co.uk/2/hi/3435379.stm",
+	"yearsServed": "1993-2001"
+},
+{
+	"name": "George W. Bush",
+	"title": "Forty-third President of the United States of America",
+	"image": "/assets/george-w-bush.jpg",
+	"fact": "Bush reportedly read 186 books during his presidency.",
+	"factSourceName": "Wikipedia",
+	"factSourceURL": "https://en.wikipedia.org/wiki/George_W._Bush#Education",
+	"yearsServed": "2001-2009"
+},
+{
+	"name": "Barack Obama",
+	"title": "Forty-fourth President of the United States of America",
+	"image": "/assets/barack-obama.jpg",
+	"fact": "Obama was the first president to brew beer in the White House.",
+	"factSourceName": "NPR",
+	"factSourceURL": "http://www.npr.org/sections/thetwo-way/2011/03/04/134271001/obama-to-serve-more-home-brewed-beer-at-white-house",
+	"yearsServed": "2009-2017"
+}
+]

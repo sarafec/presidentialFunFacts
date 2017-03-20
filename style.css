@@ -1,0 +1,88 @@
+body {
+		background-color: #f9f4f2;
+}
+
+header {
+		margin: 10px 10px 10px 10px;
+		padding: 20px 10px 20px 10px;
+}
+
+.page-title {
+		 font-family: sans-serif;
+}
+
+.instructions {
+		opacity: .7;
+}
+
+.line {
+		color: black;
+		width: 100%;
+}
+.container {
+		background-color: lightgrey;
+}
+		
+.card {
+		padding-right: 5px;
+		min-height: 475px;
+}
+		
+.card-img-top {
+		height: 200px;
+		max-width: 175px;
+}
+
+.fun-fact {
+		display: none;
+}
+
+.card:hover .fun-fact{
+		display: block;
+		font-style: italic;
+		animation-name: slideDown;
+		animation-duration: .2s;
+		animation-timing-function: linear;
+		-webkit-animation-name: slideDown;
+		-webkit-animation-duration: .2s;
+		-webkit-animation-timing-function: linear;
+}
+
+.list-group {
+		width: 14.85rem;
+}
+
+footer {
+		background-color: #60473f;
+		margin-top: 10px;
+		height: 60px;
+}
+
+footer p {
+		float: center;
+		font-size: 14px;
+		font-family: sans-serif;
+		color: white;
+		opacity: .8;
+		padding-top: 20px;
+		padding-left: 10px
+}
+
+/* CSS Animations */
+@keyframes slideDown {
+	0% {
+		transform: translateY(-10%);
+	}
+	100% {
+		transform: translateY(0%);
+	}
+}
+
+@-webkit-keyframes slideDown {
+	0% {
+		-webkit-transform: translateY(-10%);
+	}
+	100% {
+		-webkit-transform: translateY(0%);
+	}
+}
