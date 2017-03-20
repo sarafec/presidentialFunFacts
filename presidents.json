@@ -2,7 +2,7 @@
 {
 	"name": "George Washington",
 	"title": "First President of the United States of America",
-	"image": "/assets/george-washington.jpg",
+	"image": "/presidentialFunFacts/assets/george-washington.jpg",
 	"fact": "Washington died in an attempt to cure his sore throat, by draining half of his total blood content over the span of a few hours.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/George_Washington",
