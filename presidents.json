@@ -2,7 +2,7 @@
 {
 	"name": "George Washington",
 	"title": "First President of the United States of America",
-	"image": "https://sarafec.github.io/presidentialFunFacts/assets/george-washington.jpg",
+	"image": "https://sarafec.github.io/assets/george-washington.jpg",
 	"fact": "Washington died in an attempt to cure his sore throat, by draining half of his total blood content over the span of a few hours.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/George_Washington",
@@ -11,7 +11,7 @@
 {
 	"name": "John Adams",
 	"title": "Second President of the United States of America",
-	"image": "https://sarafec.github.io/presidentialFunFacts/assets/john-adams.jpg",
+	"image": "https://sarafec.github.io/assets/john-adams.jpg",
 	"fact": "Adams owned a dog named Satan.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_pets",
