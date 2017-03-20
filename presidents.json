@@ -2,7 +2,7 @@
 {
 	"name": "George Washington",
 	"title": "First President of the United States of America",
-	"image": "/assets/george-washington.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/george-washington.jpg",
 	"fact": "Washington died in an attempt to cure his sore throat, by draining half of his total blood content over the span of a few hours.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/George_Washington",
@@ -11,7 +11,7 @@
 {
 	"name": "John Adams",
 	"title": "Second President of the United States of America",
-	"image": "/assets/john-adams.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/john-adams.jpg",
 	"fact": "Adams owned a dog named Satan.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_pets",
@@ -20,7 +20,7 @@
 {
 	"name": "Thomas Jefferson",
 	"title": "Third President of the United States of America",
-	"image": "/assets/thomas-jefferson.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/thomas-jefferson.jpg",
 	"fact": "Jefferson studied Italian, Arabic, Irish, and Dutch.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/List_of_multilingual_presidents_of_the_United_States",
@@ -29,7 +29,7 @@
 {
 	"name": "James Madison",
 	"title": "Fourth President of the United States of America",
-	"image": "/assets/james-madison.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/james-madison.jpg",
 	"fact": "Madison was 5'4\" and never weighed more than 100 lbs.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/James_Madison",
@@ -38,7 +38,7 @@
 {
 	"name": "James Monroe",
 	"title": "Fifth President of the United States of America",
-	"image": "/assets/james-monroe.gif",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/james-monroe.gif",
 	"fact": "The capital of Liberia, Monrovia, is named after Monroe.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/James_Monroe",
@@ -47,7 +47,7 @@
 {
 	"name": "John Quincy Adams",
 	"title": "Sixth President of the United States of America",
-	"image": "/assets/john-quincy-adams.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/john-quincy-adams.jpg",
 	"fact": "Adams was given an alligator as a gift. He kept it in the East Room of the White House.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
@@ -56,7 +56,7 @@
 {
 	"name": "Andrew Jackson",
 	"title": "Seventh President of the United States of America",
-	"image": "/assets/andrew-jackson.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/andrew-jackson.jpg",
 	"fact": "The Democratic Party symbol originated during the 1828 presidential election, when Jackson's opposition called him a Jackass.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Andrew_Jackson",
@@ -65,7 +65,7 @@
 {
 	"name": "Martin Van Buren",
 	"title": "Eighth President of the United States of America",
-	"image": "/assets/martin-van-buren.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/martin-van-buren.jpg",
 	"fact": "Van Buren was the first president born in the United States. He was also the first president to speak English as a second langauge.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
@@ -74,7 +74,7 @@
 {
 	"name": "William Henry Harrison",
 	"title": "Ninth President of the United States of America",
-	"image": "/assets/william-henry-harrison.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/william-henry-harrison.jpg",
 	"fact": "Harrison gave the longest inaugural address in American history. It was 8,455 words.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
@@ -83,7 +83,7 @@
 {
 	"name": "John Tyler",
 	"title": "Tenth President of the United States of America",
-	"image": "/assets/john-tyler.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/john-tyler.jpg",
 	"fact": "As of 2013, Tyler has two living grandsons.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/John_Tyler",
@@ -92,7 +92,7 @@
 {
 	"name": "James K. Polk",
 	"title": "Eleventh President of the United States of America",
-	"image": "/assets/james-k-polk.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/james-k-polk.jpg",
 	"fact": "Polk had an operation to remove kidney stones with no anesthetic, but brandy.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/James_K._Polk",
@@ -101,7 +101,7 @@
 {
 	"name": "Zachary Taylor",
 	"title": "Twelfth President of the United States of America",
-	"image": "/assets/zachary-taylor.png",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/zachary-taylor.png",
 	"fact": "Taylor died from eating raw fruit and iced milk.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Zachary_Taylor#Death",
@@ -110,7 +110,7 @@
 {
 	"name": "Millard Fillmore",
 	"title": "Thirteenth President of the United States of America",
-	"image": "/assets/millard-fillmore.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/millard-fillmore.jpg",
 	"fact": "Fillmore was the last president not affiliated with the Democratic or Republican party.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Millard_Fillmore",
@@ -119,7 +119,7 @@
 {
 	"name": "Franklin Pierce",
 	"title": "Fourteenth President of the United States of America",
-	"image": "/assets/franklin-pierce.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/franklin-pierce.jpg",
 	"fact": "Pierce's 1852 presidential campaign slogan was,\"[The Democrats] will pierce their enemies in 1852 as they poked them in 1844\".",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Franklin_Pierce",
@@ -128,7 +128,7 @@
 {
 	"name": "James Buchanan",
 	"title": "Fifteenth President of the United States of America",
-	"image": "/assets/james-buchanan.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/james-buchanan.jpg",
 	"fact": "Buchanan's niece, Harriet Lane, served as his First Lady.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Harriet_Lane",
@@ -137,7 +137,7 @@
 {
 	"name": "Abraham Lincoln",
 	"title": "Sixteenth President of the United States of America",
-	"image": "/assets/abraham-lincoln.png",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/abraham-lincoln.png",
 	"fact": "Lincoln gained a reputation for being tough when he beat the leader of a group called the Clary's Grove Boys in a wrestling match.",
 	"factSourceName": "",
 	"factSourceURL": "",
@@ -146,7 +146,7 @@
 {
 	"name": "Andrew Johnson",
 	"title": "Seventeenth President of the United States of America",
-	"image": "/assets/andrew-johnson.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/andrew-johnson.jpg",
 	"fact": "Johnson showed up to his inaguration drunk, with puffy eyes, and hair caked with mud.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Inauguration_of_Andrew_Johnson",
@@ -155,7 +155,7 @@
 {
 	"name": "Ulysses S. Grant",
 	"title": "Eighteenth President of the United States of America",
-	"image": "/assets/ulysses-s-grant.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/ulysses-s-grant.jpg",
 	"fact": "Grant's father refused to come to his wedding because his fiancée's family owned slaves.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Julia_Grant",
@@ -164,7 +164,7 @@
 {
 	"name": "Rutherford B. Hayes",
 	"title": "Nineteenth President of the United States of America",
-	"image": "/assets/rutherford-b-hayes.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/rutherford-b-hayes.jpg",
 	"fact": "Hayes owned the first Siamese cat in America.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_pets",
@@ -173,7 +173,7 @@
 {
 	"name": "James A. Garfield",
 	"title": "Twentieth President of the United States of America",
-	"image": "/assets/james-a-garfield.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/james-a-garfield.jpg",
 	"fact": "Garfield was ambidextrous and could write in Ancient Greek and Latin at the same time.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/List_of_multilingual_presidents_of_the_United_States",
@@ -182,7 +182,7 @@
 {
 	"name": "Chester A. Arthur",
 	"title": "Twenty-first President of the United States of America",
-	"image": "/assets/chester-a-arthur.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/chester-a-arthur.jpg",
 	"fact": "Rumors were spread about Arthur that he was born in Canada.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
@@ -191,7 +191,7 @@
 {
 	"name": "Grover Cleveland",
 	"title": "Twenty-second & Twenty-fourth President of the United States of America",
-	"image": "/assets/grover-cleveland.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/grover-cleveland.jpg",
 	"fact": "During his second presidency, Cleveland had tumor removal surgery on a friend's yacht to avoid the stigma of cancer.",
 	"factSourceName": "NPR",
 	"factSourceURL": "http://www.npr.org/2011/07/06/137621988/a-yacht-a-mustache-how-a-president-hid-his-tumor",
@@ -200,7 +200,7 @@
 {
 	"name": "Benjamin Harrison",
 	"title": "Twenty-third President of the United States of America",
-	"image": "/assets/benjamin-harrison.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/benjamin-harrison.jpg",
 	"fact": "Harrison was the first president to have electricity, but he and his wife would not touch the light switches for fear of being electricuted.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Benjamin_Harrison#Technology_and_naval_modernization",
@@ -209,7 +209,7 @@
 {
 	"name": "William McKinley",
 	"title": "Twenty-fifth President of the United States of America",
-	"image": "/assets/william-mckinley.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/william-mckinley.jpg",
 	"fact": "McKinley ran his presidential campaign from his front porch in Canton, Ohio. He made himself available to the public six days a week.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/William_McKinley#General_election_campaign",
@@ -218,7 +218,7 @@
 {
 	"name": "Theodore Roosevelt",
 	"title": "Twenty-sixth President of the United States of America",
-	"image": "/assets/theodore-roosevelt.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/theodore-roosevelt.jpg",
 	"fact": "While campaigning in 1912, Roosevelt gave a 90 minute speech after being shot in the chest.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Theodore_Roosevelt#Assassination_attempt",
@@ -227,7 +227,7 @@
 {
 	"name": "William Howard Taft",
 	"title": "Twenty-seventh President of the United States of America",
-	"image": "/assets/william-howard-taft.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/william-howard-taft.jpg",
 	"fact": "Taft's pet cow lived and grazed on the White House lawn. The cow provided millk for the first family.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Holstein_Friesian_cattle#Presidential_cow",
@@ -236,7 +236,7 @@
 {
 	"name": "Woodrow Wilson",
 	"title": "Twenty-eighth President of the United States of America",
-	"image": "/assets/woodrow-wilson.png",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/woodrow-wilson.png",
 	"fact": "After Wilson suffered a stroke during his second term, his wife Edith Wilson began screening all presidential matters and deciding which were important enough to bring to him.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Edith_Wilson",
@@ -245,7 +245,7 @@
 {
 	"name": "Warren G. Harding",
 	"title": "Twenty-ninth President of the United States of America",
-	"image": "/assets/warren-g-harding.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/warren-g-harding.jpg",
 	"fact": "Harding won the 1920 presidential election by a 26.2% margin. It remains the larget popular-vote percentage win in American history.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_election,_1920",
@@ -254,7 +254,7 @@
 {
 	"name": "Calvin Coolidge",
 	"title": "Thirtieth President of the United States of America",
-	"image": "/assets/calvin-coolidge.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/calvin-coolidge.jpg",
 	"fact": "Coolidge and his wife kept a raccoon as a pet while in the White House.",
 	"factSourceName": "",
 	"factSourceURL": "",
@@ -263,7 +263,7 @@
 {
 	"name": "Herbert Hoover",
 	"title": "Thirty-first President of the United States of America",
-	"image": "/assets/herbert-hoover.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/herbert-hoover.jpg",
 	"fact": "Hoover and his wife, Lou Hoover, were fluent in Mandarin Chinese. They spoke in Mandarin whenever they wanted to keep their conversations private.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/List_of_multilingual_presidents_of_the_United_States#Herbert_Hoover",
@@ -272,7 +272,7 @@
 {
 	"name": "Franklin D. Roosevelt",
 	"title": "Thirty-second President of the United States of America",
-	"image": "/assets/franklin-d-roosevelt.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/franklin-d-roosevelt.jpg",
 	"fact": "Roosevelt won 523 electoral votes during the presidential election of 1936. His opponent, Alf Landon, won only 8 electoral votes.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/United_States_presidential_election,_1936",
@@ -281,7 +281,7 @@
 {
 	"name": "Harry S. Truman",
 	"title": "Thirty-third President of the United States of America",
-	"image": "/assets/harry-s-truman.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/harry-s-truman.jpg",
 	"fact": "After his presidency, Truman began working within the Truman Presidential Library and Museum. He often answered the phones there, telling callers they were speaking to \"the man himself\".",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Harry_S._Truman_Presidential_Library_and_Museum#Truman.27s_activities_on_the_premises",
@@ -290,7 +290,7 @@
 {
 	"name": "Dwight D. Eisenhower",
 	"title": "Thirty-fourth President of the United States of America",
-	"image": "/assets/dwight-d-eisenhower.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/dwight-d-eisenhower.jpg",
 	"fact": "In his teenage years, Eisenhower was a cheerleader.",
 	"factSourceName": "The Guardian",
 	"factSourceURL": "https://www.theguardian.com/sport/2006/mar/15/ussport.stevenwells",
@@ -299,7 +299,7 @@
 {
 	"name": "John F. Kennedy",
 	"title": "Thirty-fifth President of the United States of America",
-	"image": "/assets/john-f-kennedy.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/john-f-kennedy.jpg",
 	"fact": "Kennedy was routinely given shots of amphetamines to combat his severe back pain. The regimen was stopped by White House physicians who found the treatments innappropriate.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Max_Jacobson",
@@ -308,7 +308,7 @@
 {
 	"name": "Lyndon B. Johnson",
 	"title": "Thirty-sixth President of the United States of America",
-	"image": "/assets/lyndon-b-johnson.png",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/lyndon-b-johnson.png",
 	"fact": "Johnson owned an amphibious car. He enjoyed frightening his guests by driving them into a nearby lake, yelling that his brakes weren't working.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Amphicar#Amphicar_adventures",
@@ -317,7 +317,7 @@
 {
 	"name": "Richard Nixon",
 	"title": "Thirty-seventh President of the United States of America",
-	"image": "/assets/richard-nixon.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/richard-nixon.jpg",
 	"fact": "Nixon gave Elvis Presley a badge from the Federal Bureau of Narcotics and Dangerous Drugs that allowed him to enter the country with guns and drugs. Elvis later died of a drug overdose.",
 	"factSourceName": "Smithsonian Magazine",
 	"factSourceURL": "http://www.smithsonianmag.com/history/when-elvis-met-nixon-69892425/",
@@ -326,7 +326,7 @@
 {
 	"name": "Gerald Ford",
 	"title": "Thirty-eighth President of the United States of America",
-	"image": "/assets/gerald-ford.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/gerald-ford.jpg",
 	"fact": "Ford turned down offers to play football for the Detroit Lions and the Green Bay Packers. Instead, he took an assistant coach position at Yale while he applied to their law school.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Gerald_Ford#Education",
@@ -335,7 +335,7 @@
 {
 	"name": "Jimmy Carter",
 	"title": "Thirty-ninth President of the United States of America",
-	"image": "/assets/jimmy-carter.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/jimmy-carter.jpg",
 	"fact": "Carter was the first president to be born in a hospital.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Jimmy_Carter",
@@ -344,7 +344,7 @@
 {
 	"name": "Ronald Reagan",
 	"title": "Fortieth President of the United States of America",
-	"image": "/assets/ronald-reagan.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/ronald-reagan.jpg",
 	"fact": "Until 1962, Reagan was a lifelong Deomocrat.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/Ronald_Reagan#Early_political_career_1948-1967",
@@ -353,7 +353,7 @@
 {
 	"name": "George H. W. Bush",
 	"title": "Forty-first President of the United States of America",
-	"image": "/assets/george-h-w-bush.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/george-h-w-bush.jpg",
 	"fact": "Bush vomited on the Prime Minister of Japan during a state dinner.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/George_H._W._Bush_vomiting_incident",
@@ -362,7 +362,7 @@
 {
 	"name": "Bill Clinton",
 	"title": "Forty-second President of the United States of America",
-	"image": "/assets/bill-clinton.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/bill-clinton.jpg",
 	"fact": "Clinton only sent two emails during his presidency.",
 	"factSourceName": "BBC",
 	"factSourceURL": "http://news.bbc.co.uk/2/hi/3435379.stm",
@@ -371,7 +371,7 @@
 {
 	"name": "George W. Bush",
 	"title": "Forty-third President of the United States of America",
-	"image": "/assets/george-w-bush.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/george-w-bush.jpg",
 	"fact": "Bush reportedly read 186 books during his presidency.",
 	"factSourceName": "Wikipedia",
 	"factSourceURL": "https://en.wikipedia.org/wiki/George_W._Bush#Education",
@@ -380,7 +380,7 @@
 {
 	"name": "Barack Obama",
 	"title": "Forty-fourth President of the United States of America",
-	"image": "/assets/barack-obama.jpg",
+	"image": "https://sarafec.github.io/presidentialFunFacts/assets/barack-obama.jpg",
 	"fact": "Obama was the first president to brew beer in the White House.",
 	"factSourceName": "NPR",
 	"factSourceURL": "http://www.npr.org/sections/thetwo-way/2011/03/04/134271001/obama-to-serve-more-home-brewed-beer-at-white-house",
