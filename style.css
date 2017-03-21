@@ -9,18 +9,23 @@ header {
 
 .page-title {
 		 font-family: sans-serif;
+		 position: relative;
 }
 
 .instructions {
 		opacity: .7;
 }
 
+#search {
+	float: right;
+	margin-bottom: 5px;
+	max-width: 200px;
+	max-height: 30px;
+}
+
 .line {
 		color: black;
 		width: 100%;
-}
-.container {
-		background-color: lightgrey;
 }
 		
 .card {
@@ -46,6 +51,10 @@ header {
 		-webkit-animation-name: slideDown;
 		-webkit-animation-duration: .2s;
 		-webkit-animation-timing-function: linear;
+}
+
+.inactive {
+	display: none;
 }
 
 .list-group {
