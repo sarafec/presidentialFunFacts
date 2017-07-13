@@ -1,3 +1,4 @@
+//load president icons
 let presidentFactApp = (function() {
 	//empty array to be filled by getJSON method
 	let presidentData = [];
@@ -83,3 +84,53 @@ let presidentFactApp = (function() {
 		yearsInOfficeArea.appendChild(yearsInOfficeText);
 	};
 }());
+
+//search functionality
+window.setTimeout(function(){
+	let inputField = document.getElementById("search");
+
+	//return fuzzy search function on enter
+	inputField.addEventListener("keyup", function(e) {
+		if (e.which === 13) {
+			return searchCards();
+		}
+	});
+
+	let searchCards = function() {
+		//manipulate input text into a character array
+		let lowerSearchText = inputField.value.toLowerCase();
+		let charSearchText = lowerSearchText.split('');
+
+		randomPresidentNames = document.querySelectorAll(".card-title");
+			randomPresidentNames.forEach(function(title) {
+				let presidentName = title;
+				let presidentNameString = title.textContent;
+
+				//manipulate president names into character arrays - to be compared
+				let lowerPresidentNameString = presidentNameString.toLowerCase();
+				let lowerPresidentNameChar = lowerPresidentNameString.split('');
+
+				//perform intersection on input and presidents names - creating a new array
+				let inputData = new Set(charSearchText);
+				let listData = new Set(lowerPresidentNameChar);
+				let intersection = new Set([...inputData].filter(x => listData.has(x)));
+				let intersectionArr = Array.from(intersection);
+
+				//perform union on input and president names - creating a new array
+				let union = new Set([...inputData, ...listData]);
+				let unionArr = Array.from(union);
+
+				//calculate the difference between the union and intersection
+				let intersectionArrLength = intersectionArr.length;
+				let unionArrLength = unionArr.length;
+				let calculateStringApproximation = (function() {
+					let result = intersectionArrLength/unionArrLength;
+
+					//identify the parent div of the card
+					let selectedCard = presidentName.parentNode.parentNode;
+					//if the result is less than .7 change card to display none
+					selectedCard.classList.toggle("inactive", result <= .7);
+				}());
+			});
+	};
+}, 500);
