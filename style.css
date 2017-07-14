@@ -63,8 +63,16 @@ header {
 
 footer {
 		background-color: #60473f;
-		margin-top: 10px;
-		height: 60px;
+		height: 30px;
+		position: fixed;
+		width: 100%;
+		clear: both;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		z-index: 1;
+		padding: .5rem;
+		text-align: center;
 }
 
 footer p {
@@ -73,7 +81,6 @@ footer p {
 		font-family: sans-serif;
 		color: white;
 		opacity: .8;
-		padding-top: 20px;
 		padding-left: 10px
 }
 
